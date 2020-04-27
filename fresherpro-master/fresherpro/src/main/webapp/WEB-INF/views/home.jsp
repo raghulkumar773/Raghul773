@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <HTML>
     <HEAD>
-        <title>Fresherpro</title>
+        <title>Udemy</title>
         <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
         <style>
 body {
@@ -49,14 +49,14 @@ body {
             .a{
                 margin-top: 100px;
                 margin-left: 80px;
-                font-size: 80px;
+                font-size: 70px;
                 font-family: 'Dancing Script';
             }
 </style>
     </HEAD>
     <body>
         <div class="a">
-            <p>Fresher Pro Learnings</p>
+            <p>Udemy Learnings</p>
         </div>
     <div class="aa">
         <form action="validate" method="post">
