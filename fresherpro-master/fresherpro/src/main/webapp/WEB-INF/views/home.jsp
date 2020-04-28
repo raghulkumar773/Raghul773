@@ -9,7 +9,7 @@
 body {
   background-image: url(https://wallpapercave.com/wp/wp3191229.png);
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment:scroll;
 }
 .aa{
   width: 350px;
@@ -20,7 +20,7 @@ body {
     padding-top: 50px;
     padding-left: 20px;
     border-radius: 15px;
-    color: black;
+    color: powderblue;
     font-weight: bold;
 }
 .aa input[type="text"]{
@@ -36,8 +36,9 @@ body {
     font-family:monospace;
 }      
 .aa input[type="submit"]{
-    width: 80px;
-    height:35px;
+    background-color:green;
+    width: 100px;
+    height:45px;
     border-radius: 5px;
     margin-left: 90px;
     font-family: cursive;
@@ -64,8 +65,10 @@ body {
             <input type="text"  id="name" name="username" placeholder="Enter the username" required><br><br>
             <label for="password">Password </label>
         <input type="password" id="password" name="password" placeholder="Enter the password" required><br><br>
-            <input type="submit"  placeholder="Enter the username" value="Login"><br>
+            <input type="submit" value="Login"><br>
         </form>
         </div>
     </body>
 </HTML>
+
+    
