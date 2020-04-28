@@ -8,6 +8,6 @@
 </head>
 <body>
 <img src="https://previews.123rf.com/images/arcady31/arcady311210/arcady31121000045/15589250-oops-smiley.jpg" height="70px" width="70px">
-please check the details you have entered... ):
+<p style="font-family:verdana; color:red;"><b>Invalid details!</b></p>please check the details you have entered... ):
 </body>
 </html>
