@@ -24,7 +24,7 @@
         
     </style>
     <body>
-        <p class="a">Welcome to Fresherpro learnings</p>
+        <p class="a">Welcome to Udemy learnings</p>
         <p class="aa">(e-enlightment)</p>
     </body>
         
